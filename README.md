@@ -1,7 +1,7 @@
 # react_native_CRUD
 App com CRUD básico em React Native utilizando SQLite e EXPO
 
-##Instalações
+## Instalações
 'npm expo install expo-sqlite'
 'npm install react-native-picker-modal-view --save'
 'npm install @types/react -- D'
